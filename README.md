@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mihir Tomar</h1>
+![image](https://github.com/user-attachments/assets/810511b6-398e-4cd3-811d-3b4fe947b112)<h1 align="center">Hi 👋, I'm Mihir Tomar</h1>
 <h3 align="center">Pursuing M.Tech. in AR/VR @IITJ (2024-'26)</h3>
+
+<img align="right" alt="coding" width=00 src="https://i.pinimg.com/originals/45/04/28/4504285f9f12ea09bed8366f05a399d4.gif">
 
 - 🌱 I’m currently learning **AR/VR development, DL, NLP, GenAI, BCI integration with VR**
 
