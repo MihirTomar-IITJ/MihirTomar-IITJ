@@ -5,8 +5,6 @@ Hi 👋, I'm Mihir Tomar</h1>
 
 - 🌱 I’m currently learning **AR/VR development, DL, NLP, GenAI, BCI integration with VR**
 
-- 💬 Ask me about **AR/VR, Unity3D**
-
 - 📫 How to reach me **mihir.tomar01@gmail.com**
 
 - ⚡ Fun fact **In the world outside my laptop💻, you can find me playing Badminton, Table Tennis🏓or Volleyball🏐 or hanging out with family and friends. I also love watching anime, sitcoms and movies 🎬**
