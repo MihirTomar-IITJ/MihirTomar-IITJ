@@ -7,7 +7,7 @@ Hi 👋, I'm Mihir Tomar</h1>
 
 - 📫 How to reach me **mihir.tomar01@gmail.com**
 
-- ⚡ Fun fact **In the world outside my laptop💻, you can find me playing Badminton, Table Tennis🏓or Volleyball🏐 or hanging out with family and friends. I also love watching anime, sitcoms and movies 🎬**
+- ⚡ **In the world outside my laptop💻, you can find me playing Badminton, Table Tennis🏓or Volleyball🏐 or hanging out with family and friends. I also love watching anime, sitcoms and movies 🎬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
